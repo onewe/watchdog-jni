@@ -18,6 +18,9 @@
     <ClInclude Include="com_zzwtec_watchdog_jni_WatchDogImp.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="com_zzwtec_camera_fx_service_watchdog_WatchDogService.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="dog.c">
